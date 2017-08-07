@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 # $1 contains full path to the .so to verify
 # $2 contains message to print when the verification fails
 
